@@ -1,0 +1,19 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Rutas con usuarios",
+  "main": "app.js",
+  "scripts": {
+    "start": "start ./app.js" ,
+    "dev": "node ./app.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerson Flores Narciso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
